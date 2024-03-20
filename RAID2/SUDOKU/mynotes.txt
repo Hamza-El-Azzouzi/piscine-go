@@ -1,0 +1,22 @@
+Step 1:
+-recieving the input
+-check if the number of args is valid(9 row)
+
+step 2:
+-check if the number of rows and characters is valid
+
+step 3:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
